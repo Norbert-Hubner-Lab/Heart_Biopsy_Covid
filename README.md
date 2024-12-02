@@ -6,6 +6,6 @@ Link to publication:
 
 Data are available via: Raw data/bams: https://ega-archive.org/studies/EGAS00001006374
 
-Raw count matrices: 
+h5ads per Sample: https://zenodo.org/uploads/14258362
 
 Processed data/Cellxgene:
